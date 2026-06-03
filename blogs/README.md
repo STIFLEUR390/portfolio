@@ -18,6 +18,8 @@ Quelques articles basés sur mes projets réels, les problèmes que j'ai rencont
 | 08 | [Explorer l'API OpenLibrary avec JavaScript et Vue.js](./blog-openlibrary-api-bookshelf.md) | BookShelf |
 | 09 | [Livewire vs Sanctum : deux philosophies d'authentification Laravel](./blog-livewire-vs-sanctum-auth.md) | Auth Solutions |
 | 10 | [Du premier commit au déploiement : itérations sur mon portfolio Nuxt](./blog-iterations-portfolio-nuxt.md) | Portfolio Website |
+| 11 | [Laravel 13 + Inertia.js v3 : pourquoi j'ai choisi cette stack pour KwikTalk](./blog-inertiajs-kwiktalk.md) | KwikTalk |
+| 12 | [Opinionated API Starter : ce que j'ai mis dans Kit et pourquoi](./blog-kit-api-starter.md) | Kit API |
 
 ---
 
