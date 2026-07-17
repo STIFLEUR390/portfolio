@@ -2,6 +2,8 @@
 
 **Dev Master** — Développeur Fullstack spécialisé en **Laravel**, **Vue.js / Nuxt**, **AdonisJS**, **Inertia.js** et outils **AI**.
 
+> 📄 **[Télécharger mon CV (PDF)](./CV.md)** — ou voir le [CV complet en Markdown](./CV.md)
+
 ---
 
 Bienvenue sur mon portfolio. Vous trouverez ici une sélection de mes projets représentatifs, couvrant le développement web, les API, les outils AI, les systèmes de gestion et l'automatisation.
@@ -27,6 +29,7 @@ Bienvenue sur mon portfolio. Vous trouverez ici une sélection de mes projets re
 | 09 | [Ultime POS](./PROJET-09-ultime-pos.md) | 2023 | TypeScript · Docus · Documentation système |
 | 15 | [KwikTalk — Gestion WhatsApp](./PROJET-15-kwiktalk.md) | 2026 | Laravel 13 · Inertia.js v3 · Vue 3 · shadcn-vue |
 | 16 | [Kit — API Starter](./PROJET-16-kit-api.md) | 2026 | Laravel 12 · Sanctum · Scribe · OpenAPI · Saloon |
+| 17 | [Nuxt Modern Starter](./PROJET-17-nuxt-modern-starter.md) | 2026 | Nuxt 4 · Pinia · OIDC · Sentry · shadcn-vue · PWA |
 
 ## 🧪 Projets complémentaires
 
